@@ -1,4 +1,52 @@
+* {
+  /* background-color: rgb(0, 0, 0); */
+
+  box-sizing: border-box;
+}
+
+html,
+body {
+  /* background-color: rgb(0, 0, 0); */
+  background-color: rgb(63, 0, 164);
+
+}
+
 .App {
+
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding-top: 20px;
+  font-family: Lato, sans-serif;
+}
+
+
+
+.gaalpos-container {
+  color: white;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.main-container {
+  height: 400px;
+  min-width: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +83,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
