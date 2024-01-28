@@ -1,6 +1,6 @@
 # Clicker
 
-Simple clicker app to learn state changes on a React component following [this course](https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=9344s).
+Simple clicker app to learn state changes on a React components following [this course](https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=9344s).
 
 Run the app:
     
